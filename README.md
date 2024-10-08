@@ -19,3 +19,5 @@ git clone https://github.com/sergio-lacerda-senai/JS-A02-Projeto-Gerador-Cracha.
 Após o desenvolvimento das funcionalidades solicitadas, espera-se que a aplicação componha um crachá semelhante ao mostrado na imagem abaixo.
 
 ![Resultado Esperado](https://github.com/sergio-lacerda-senai/JS-A02-Projeto-Gerador-Cracha/blob/master/img/Resultado_Eperado.png "Resultado Esperado")
+
+## Grupo : Eduardo Pontes, Gabriel Mendes e Theo Cantador
